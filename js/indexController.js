@@ -183,7 +183,7 @@ app.controller('myIndexCtrl', function($scope) {
       "projectsRepets"                          : [
                                                     /*Shiksha Messanger*/
                                                     {
-                                                        "sno": 3, "projectType": "mobileApp", "classs": 'app', "projectName": "# Shiksha Messanger", "thumbnail": "img/projectsImg/shikshaMessanger/shikshaMessanger1.png", "linkUrl": "#", "intro": "Shiksha Messenger app for students, faculties & staff. Get Important notifications, Institute Timeline, courses Timeline  from the Institute and Instructors will be sent through this app.", 
+                                                        "sno": 2, "projectType": "mobileApp", "classs": 'app', "projectName": "# Shiksha Messanger", "thumbnail": "img/projectsImg/shikshaMessanger/shikshaMessanger1.png", "linkUrl": "#", "intro": "Shiksha Messenger app for students, faculties & staff. Get Important notifications, Institute Timeline, courses Timeline  from the Institute and Instructors will be sent through this app.", 
                                                         "chipRepetTech":    [
                                                                                 {"title": "Android App",  "imgLink": "img/skillsLogo/android.png"},
                                                                                 {"title": "IOS App",      "imgLink": "img/skillsLogo/apple.png"},
@@ -206,7 +206,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     },
                                                     /*MindQuizzer*/
                                                     {
-                                                        "sno": 4, "projectType": "mobileApp", "classs": 'app', "projectName": "# MindQuizzer App", "thumbnail": "img/projectsImg/mindQuizzer/mindQuizzer1.png", "linkUrl": "https://mindquizzer.com", "intro": "Mind Quizzer is a free education app tool that will transform your education experience. Our mobile app has a number of features that will make your educational experience valuable and will help with your academic success.<br><br><h5>For Teachers:</h5>Teachers from around the world can submit questions to Mind Quizzer. Once the questions are approved by our subject experts, the questions are live for students use. The teachers are compensation with a commission based structure that is based on how many times their questions are accessed for testing by students.<br><br><h5>For Students - Quiz Taking:</h5>Students can take multiple choice practice tests using our app. The questions can be selected based on the country, course and topic of their choice. A student can select questions in increments of 10,20,30,40, or 50. Each question will be closely aligned with a students course in their topic. Students will be given the correct response as they proceed from one question to the next. Students can also select the variety of questions based on various levels of difficulty for each question. Questions are coded based on a 1 - easy, 2 - moderate, or 3 -difficult. Students will also have a dashboard where they can see their results on previous assessments.<br><br><h5>For Students - Virtual Help Center:</h5> Students are often faced with tough assignments and tight deadlines. The grade they receive will be very important. Our virtual help center is your online app for help anytime from anywhere. A student is asked to select the subject they are having issues with, a brief description of the area they are having difficulty with and upload a copy picture or copy of the assessment. Our subject expert will review the submission and respond with the cost to provide the help requested. Once a student accepts the cost, the subject expert will then send back to the student a video file that shows the solution with audio.", 
+                                                        "sno": 3, "projectType": "mobileApp", "classs": 'app', "projectName": "# MindQuizzer App", "thumbnail": "img/projectsImg/mindQuizzer/mindQuizzer1.png", "linkUrl": "https://mindquizzer.com", "intro": "Mind Quizzer is a free education app tool that will transform your education experience. Our mobile app has a number of features that will make your educational experience valuable and will help with your academic success.<br><br><h5>For Teachers:</h5>Teachers from around the world can submit questions to Mind Quizzer. Once the questions are approved by our subject experts, the questions are live for students use. The teachers are compensation with a commission based structure that is based on how many times their questions are accessed for testing by students.<br><br><h5>For Students - Quiz Taking:</h5>Students can take multiple choice practice tests using our app. The questions can be selected based on the country, course and topic of their choice. A student can select questions in increments of 10,20,30,40, or 50. Each question will be closely aligned with a students course in their topic. Students will be given the correct response as they proceed from one question to the next. Students can also select the variety of questions based on various levels of difficulty for each question. Questions are coded based on a 1 - easy, 2 - moderate, or 3 -difficult. Students will also have a dashboard where they can see their results on previous assessments.<br><br><h5>For Students - Virtual Help Center:</h5> Students are often faced with tough assignments and tight deadlines. The grade they receive will be very important. Our virtual help center is your online app for help anytime from anywhere. A student is asked to select the subject they are having issues with, a brief description of the area they are having difficulty with and upload a copy picture or copy of the assessment. Our subject expert will review the submission and respond with the cost to provide the help requested. Once a student accepts the cost, the subject expert will then send back to the student a video file that shows the solution with audio.", 
                                                         "chipRepetTech":    [
                                                                                 {"title": "Android App",  "imgLink": "img/skillsLogo/android.png"},
                                                                                 {"title": "IOS App",      "imgLink": "img/skillsLogo/apple.png"},
@@ -238,6 +238,26 @@ app.controller('myIndexCtrl', function($scope) {
                                                                                 {"toolTip" : "My Approve Questions Screen",                  "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer19.png"},
                                                                                 {"toolTip" : "Question Preview Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer21.png"}, 
                                                                                 {"toolTip" : "My Topics Status Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer23.png"}
+                                                                            ]
+                                                    },
+                                                    /*DevChat*/
+                                                    {
+
+                                                        "sno": 4, "projectType": "WebApp", "classs": 'web', "projectName": "# DevChat", "thumbnail": "img/projectsImg/devChat/devChat1.png", "linkUrl": "https://slack-clone-d0989.web.app", "intro": "we'll be building a live chat app for developers called DevChat, where users will be able to create channels, to send messages to other users on those channels, send media files, see when other users are typing, add emojis to their messages, favorite and unfavorite channels they like or dislike, and get notifications about new messages on other channels. <br><h5># Features</h5><p>◉ Sending and receiving messages instantly with the real-time Firebase Database</p><p>◉ Uploading and displaying image messages using Firebase Storage</p><p>◉ Tracking / showing when users are online / offline</p><p>◉ Custom animations to see when other users are typing in the same channel</p><p>◉ Creating, cropping and uploading user avatars</p><p>◉ User authentication with Firebase</p><p>◉ State management with Redux, with simple, straightforward patterns</p><p>◉ Creating stunning user interfaces with Semantic UI React</p><p>◉ Securing our application with Firebase Rules</p><p>◉ Deploying our chat app to the web using Firebase Tools</p><p>◉ Notifications to display new messages in other channels</p>", 
+                                                        "chipRepetTech":    [
+                                                                                {"title": "React",      "imgLink": "img/skillsLogo/react2.png"},
+                                                                                {"title": "Redux",      "imgLink": "img/skillsLogo/redux.png"},
+                                                                                {"title": "Semantic UI","imgLink": "img/skillsLogo/semantic.png"},
+                                                                                {"title": "Firebase",   "imgLink": "img/skillsLogo/firebase.jpg"}
+                                                                            ],
+                                                        "screenShot":       [
+                                                                                {"toolTip" : "Sign In Screen",          "imgLink": "img/projectsImg/devChat/devChat1.png"},
+                                                                                {"toolTip" : "Sign Up Screen",          "imgLink": "img/projectsImg/devChat/devChat2.png"},
+                                                                                {"toolTip" : "User Dashboard Screen",   "imgLink": "img/projectsImg/devChat/devChat3.png"},
+                                                                                {"toolTip" : "Media Upload Screen",     "imgLink": "img/projectsImg/devChat/devChat4.png"},
+                                                                                {"toolTip" : "Emoji Section",           "imgLink": "img/projectsImg/devChat/devChat5.png"},
+                                                                                {"toolTip" : "Avatar Uploader",         "imgLink": "img/projectsImg/devChat/devChat6.png"},
+                                                                                {"toolTip" : "Change App Theme",        "imgLink": "img/projectsImg/devChat/devChat7.png"}
                                                                             ]
                                                     },
                                                     /*SwiftKey*/
@@ -654,18 +674,18 @@ app.controller('myIndexCtrl', function($scope) {
                                                                                 {"toolTip" : "Gave Over Screen",           "imgLink": "img/projectsImg/runner/runner13.png"}
                                                                             ]
                                                     },
-                                                  ],
-      "copyRightText"                           : "© 2020 COPYRIGHT",
-      "developerMSG"                            : "Made with <i>♥</i> by Vishal Singh",
-      "parallaxImg1"                            : "img/parallaxImg/01.jpg",
-      "parallaxImg2"                            : "img/parallaxImg/02.jpg",
-      "parallaxImg3"                            : "img/parallaxImg/03.jpg",
-      "parallaxImg4"                            : "img/parallaxImg/04.png",
+                                                ],
+        "copyRightText"                           : "© 2020 COPYRIGHT",
+        "developerMSG"                            : "Made with <i>♥</i> by Vishal Singh",
+        "parallaxImg1"                            : "img/parallaxImg/01.jpg",
+        "parallaxImg2"                            : "img/parallaxImg/02.jpg",
+        "parallaxImg3"                            : "img/parallaxImg/03.jpg",
+        "parallaxImg4"                            : "img/parallaxImg/04.png",
     }];
-  
+
     
     $scope.selectProject = function(index){
-      $scope.selectedProject = $scope.pageStaticObject[0].projectsRepets[index];
+        $scope.selectedProject = $scope.pageStaticObject[0].projectsRepets[index];
       //alert(JSON.stringify($scope.selectedProject));
     }
 });
