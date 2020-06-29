@@ -59,7 +59,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     {"title": "Bootstrap",        "imgLink": "img/skillsLogo/bootstrap.png"},
                                                     {"title": "Materialize",      "imgLink": "img/skillsLogo/materializecss.png"},
                                                     {"title": "Ionic",            "imgLink": "img/skillsLogo/ionic.jpg"},
-                                                    {"title": "Monaca",           "imgLink": "img/skillsLogo/monaca.jpg"},
+                                                    {"title": "React-Native",     "imgLink": "img/skillsLogo/react2.png"},
                                                   ],
      "educationSectionTitle"                    : "EDUCATION",
      "educationRepetCourse"                     : [
@@ -168,7 +168,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     {"itemTitle": "Nationality",          "icon": "fa-globe",          "itemValue": "Indian"},
                                                     {"itemTitle": "Marital Status",       "icon": "fa-user-times",     "itemValue": "Single"},
                                                     {"itemTitle": "E-Mail",               "icon": "fa-envelope-o",     "itemValue": "vishalsingh1371990@gmail.com"},
-                                                    {"itemTitle": "Alternate Mobile No.", "icon": "fa-mobile",         "itemValue": "9977296229"},
+                                                    // {"itemTitle": "Alternate Mobile No.", "icon": "fa-mobile",         "itemValue": "9977296229"},
                                                     {"itemTitle": "Language Known",       "icon": "fa-language",       "itemValue": "English, Hindi"},
                                                     {"itemTitle": "hobbies",              "icon": "fa-gamepad",        "itemValue": "Listening Music, Bandminton, Travelling"},
                                                     {"itemTitle": "Address",              "icon": "fa-map-marker",     "itemValue": "MIG-45, Sumitra Parisar, Nayapura, Kolar Road, Bhopal (M.P)"}
