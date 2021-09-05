@@ -376,7 +376,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     },
                                                     /*Shiksha Messanger*/
                                                     {
-                                                        "sno": 14, "projectType": "mobileApp", "classs": 'app', "projectName": "# Shiksha Messanger", "thumbnail": "img/projectsImg/shikshaMessanger/shikshaMessanger1.jpg", "linkUrl": "#", "intro": "Shiksha Messenger app for students, faculties & staff. Get Important notifications, Institute Timeline, courses Timeline  from the Institute and Instructors will be sent through this app.", 
+                                                        "sno": 14, "projectType": "mobileApp", "classs": 'app', "projectName": "# Shiksha Messanger", "thumbnail": "img/projectsImg/shikshaMessanger/shikshamessanger1.jpg", "linkUrl": "#", "intro": "Shiksha Messenger app for students, faculties & staff. Get Important notifications, Institute Timeline, courses Timeline  from the Institute and Instructors will be sent through this app.", 
                                                         "chipRepetTech":    [
                                                                                 {"title": "Android App",  "imgLink": "img/skillsLogo/android.png"},
                                                                                 {"title": "IOS App",      "imgLink": "img/skillsLogo/apple.png"},
@@ -386,15 +386,15 @@ app.controller('myIndexCtrl', function($scope) {
                                                                                 {"title": "CouchDB",      "imgLink": "img/skillsLogo/couchdb.png"}
                                                                             ],
                                                         "screenShot":       [
-                                                                                {"toolTip" : "Splash Screen",                    "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger1.jpg"},
-                                                                                {"toolTip" : "Welcome Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger2.jpg"},
-                                                                                {"toolTip" : "Sign In Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger3.jpg"},
-                                                                                {"toolTip" : "Sign Up Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger4.jpg"},
-                                                                                {"toolTip" : "Forgot Password Screen",           "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger5.jpg"},
-                                                                                {"toolTip" : "Intro Screen",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger6.jpg"},
-                                                                                {"toolTip" : "Intro Screen",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger7.jpg"},
-                                                                                {"toolTip" : "User Profile",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger9.jpg"},
-                                                                                {"toolTip" : "Notification Details Screen",      "imgLink": "img/projectsImg/shikshaMessanger/shikshaMessanger10.jpg"}
+                                                                                {"toolTip" : "Splash Screen",                    "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger1.jpg"},
+                                                                                {"toolTip" : "Welcome Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger2.jpg"},
+                                                                                {"toolTip" : "Sign In Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger3.jpg"},
+                                                                                {"toolTip" : "Sign Up Screen",                   "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger4.jpg"},
+                                                                                {"toolTip" : "Forgot Password Screen",           "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger5.jpg"},
+                                                                                {"toolTip" : "Intro Screen",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger6.jpg"},
+                                                                                {"toolTip" : "Intro Screen",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger7.jpg"},
+                                                                                {"toolTip" : "User Profile",                     "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger9.jpg"},
+                                                                                {"toolTip" : "Notification Details Screen",      "imgLink": "img/projectsImg/shikshaMessanger/shikshamessanger10.jpg"}
                                                                             ]
                                                     },
                                                     /*MindQuizzer*/
@@ -410,27 +410,27 @@ app.controller('myIndexCtrl', function($scope) {
 
                                                                             ],
                                                         "screenShot":       [
-                                                                                {"toolTip" : "Splash Screen",                                "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer1.jpg"},
-                                                                                {"toolTip" : "Welcome Screen",                               "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer2.jpg"},
-                                                                                {"toolTip" : "Sign Up Screen",                               "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer3.jpg"},
-                                                                                {"toolTip" : "Log In Screen",                                "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer4.jpg"},
-                                                                                {"toolTip" : "Forgot Password Screen",                       "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer5.jpg"},
-                                                                                {"toolTip" : "Student Home Screen",                          "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer6.jpg"},
-                                                                                {"toolTip" : "Help Desk Screen",                             "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer7.jpg"},
-                                                                                {"toolTip" : "Student Drawer Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer8.jpg"},
-                                                                                {"toolTip" : "Result & Payment Status Screen",               "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer9.jpg"},
-                                                                                {"toolTip" : "Result & Payment Status Screen",               "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer10.jpg"},
-                                                                                {"toolTip" : "Quiz Dashboard Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer11.jpg"},
-                                                                                {"toolTip" : "Topic Filters Screen",                         "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer12.jpg"},
-                                                                                {"toolTip" : "Cart Screen",                                  "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer13.jpg"},
-                                                                                {"toolTip" : "Paypal Payment Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer14.jpg"},
-                                                                                {"toolTip" : "Admin Subjects Filters Screen",                "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer15.jpg"},
-                                                                                {"toolTip" : "Single Question Upload Screen",                "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer16.jpg"},
-                                                                                {"toolTip" : "Bulk Question Upload Screen",                  "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer17.jpg"},
-                                                                                {"toolTip" : "My Questions Status Screen",                   "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer18.jpg"},
-                                                                                {"toolTip" : "My Approve Questions Screen",                  "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer19.jpg"},
-                                                                                {"toolTip" : "Question Preview Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer20.jpg"}, 
-                                                                                {"toolTip" : "My Topics Status Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindQuizzer21.jpg"}
+                                                                                {"toolTip" : "Splash Screen",                                "imgLink": "img/projectsImg/mindQuizzer/mindquizzer1.jpg"},
+                                                                                {"toolTip" : "Welcome Screen",                               "imgLink": "img/projectsImg/mindQuizzer/mindquizzer2.jpg"},
+                                                                                {"toolTip" : "Sign Up Screen",                               "imgLink": "img/projectsImg/mindQuizzer/mindquizzer3.jpg"},
+                                                                                {"toolTip" : "Log In Screen",                                "imgLink": "img/projectsImg/mindQuizzer/mindquizzer4.jpg"},
+                                                                                {"toolTip" : "Forgot Password Screen",                       "imgLink": "img/projectsImg/mindQuizzer/mindquizzer5.jpg"},
+                                                                                {"toolTip" : "Student Home Screen",                          "imgLink": "img/projectsImg/mindQuizzer/mindquizzer6.jpg"},
+                                                                                {"toolTip" : "Help Desk Screen",                             "imgLink": "img/projectsImg/mindQuizzer/mindquizzer7.jpg"},
+                                                                                {"toolTip" : "Student Drawer Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindquizzer8.jpg"},
+                                                                                {"toolTip" : "Result & Payment Status Screen",               "imgLink": "img/projectsImg/mindQuizzer/mindquizzer9.jpg"},
+                                                                                {"toolTip" : "Result & Payment Status Screen",               "imgLink": "img/projectsImg/mindQuizzer/mindquizzer10.jpg"},
+                                                                                {"toolTip" : "Quiz Dashboard Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindquizzer11.jpg"},
+                                                                                {"toolTip" : "Topic Filters Screen",                         "imgLink": "img/projectsImg/mindQuizzer/mindquizzer12.jpg"},
+                                                                                {"toolTip" : "Cart Screen",                                  "imgLink": "img/projectsImg/mindQuizzer/mindquizzer13.jpg"},
+                                                                                {"toolTip" : "Paypal Payment Screen",                        "imgLink": "img/projectsImg/mindQuizzer/mindquizzer14.jpg"},
+                                                                                {"toolTip" : "Admin Subjects Filters Screen",                "imgLink": "img/projectsImg/mindQuizzer/mindquizzer15.jpg"},
+                                                                                {"toolTip" : "Single Question Upload Screen",                "imgLink": "img/projectsImg/mindQuizzer/mindquizzer16.jpg"},
+                                                                                {"toolTip" : "Bulk Question Upload Screen",                  "imgLink": "img/projectsImg/mindQuizzer/mindquizzer17.jpg"},
+                                                                                {"toolTip" : "My Questions Status Screen",                   "imgLink": "img/projectsImg/mindQuizzer/mindquizzer18.jpg"},
+                                                                                {"toolTip" : "My Approve Questions Screen",                  "imgLink": "img/projectsImg/mindQuizzer/mindquizzer19.jpg"},
+                                                                                {"toolTip" : "Question Preview Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindquizzer20.jpg"}, 
+                                                                                {"toolTip" : "My Topics Status Screen",                      "imgLink": "img/projectsImg/mindQuizzer/mindquizzer21.jpg"}
                                                                             ]
                                                     },
                                                     /*DevChat*/
