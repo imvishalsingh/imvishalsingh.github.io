@@ -169,7 +169,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     {"itemTitle": "Nationality",          "icon": "fa-globe",          "itemValue": "Indian"},
                                                     {"itemTitle": "Marital Status",       "icon": "fa-user-times",     "itemValue": "Single"},
                                                     {"itemTitle": "E-Mail",               "icon": "fa-envelope-o",     "itemValue": "vishalsingh1371990@gmail.com"},
-                                                    // {"itemTitle": "Alternate Mobile No.", "icon": "fa-mobile",      "itemValue": "9977296229"},
+                                                    {"itemTitle": "Alternate Mobile No.", "icon": "fa-mobile",         "itemValue": "9977296229"},
                                                     {"itemTitle": "Language Known",       "icon": "fa-language",       "itemValue": "English, Hindi"},
                                                     {"itemTitle": "hobbies",              "icon": "fa-gamepad",        "itemValue": "Listening Music, Bandminton, Travelling"},
                                                     {"itemTitle": "Address",              "icon": "fa-map-marker",     "itemValue": "MIG-45, Sumitra Parisar, Nayapura, Kolar Road, Bhopal (M.P)"}
@@ -879,6 +879,5 @@ app.controller('myIndexCtrl', function($scope) {
     
     $scope.selectProject = function(index){
         $scope.selectedProject = $scope.pageStaticObject[0].projectsRepets[index];
-      //alert(JSON.stringify($scope.selectedProject));
     }
 });
