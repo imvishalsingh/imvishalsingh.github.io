@@ -938,7 +938,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                                             ]
                                                     },
                                                 ],
-        "copyRightText"                           : "© 2021 COPYRIGHT",
+        "copyRightText"                           : "© 2022 COPYRIGHT",
         "developerMSG"                            : "Made with <i style='font-size: 22px'>♥</i> by Vishal Singh",
         "parallaxImg1"                            : "img/parallaxImg/01.jpg",
         "parallaxImg2"                            : "img/parallaxImg/02.jpg",
