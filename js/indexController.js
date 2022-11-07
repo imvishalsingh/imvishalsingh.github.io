@@ -184,7 +184,7 @@ app.controller('myIndexCtrl', function($scope) {
       "projectsRepets"                          : [
                                                     /*ABSolution*/
                                                     {
-                                                        "sno": 7, "projectType": "mobileApp", "classs": 'app', "projectName": "# ABSolution", "thumbnail": "img/projectsImg/ABSolution/ABSolution1.png", "linkUrl": "", "intro": "Telcell is mobile recharge platform in this country (USA+SaintMartin+Saba+SintEustatius). App features app auto Topup, Fraud detection, Social logins (apple+facebook+gmail), Manage my contacts & Payment gateway (Stripe & Paypal).", 
+                                                        "sno": 7, "projectType": "mobileApp", "classs": 'app', "projectName": "# ABSolution", "thumbnail": "img/projectsImg/ABSolution/ABSolution1.png", "linkUrl": "", "intro": "This is an ERP product for account management, staff management, product management, sales management, e-Store, orders, and CRM section & some on-demand features.", 
                                                         "chipRepetTech":    [
                                                                                 {"title": "Android App",  "imgLink": "img/skillsLogo/android.png"},
                                                                                 {"title": "IOS App",      "imgLink": "img/skillsLogo/apple.png"},
