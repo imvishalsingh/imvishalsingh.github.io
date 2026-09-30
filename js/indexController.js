@@ -174,7 +174,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     {"itemTitle": "Alternate Mobile No.", "icon": "fa-mobile",         "itemValue": "9977296229"},
                                                     {"itemTitle": "Language Known",       "icon": "fa-language",       "itemValue": "English, Hindi"},
                                                     {"itemTitle": "hobbies",              "icon": "fa-gamepad",        "itemValue": "Listening Music, Bandminton, Travelling"},
-                                                    //{"itemTitle": "Address",              "icon": "fa-map-marker",     "itemValue": "MIG-45, Sumitra Parisar, Nayapura, Kolar Road, Bhopal (M.P)"}
+                                                    {"itemTitle": "Address",              "icon": "fa-map-marker",     "itemValue": "MIG-45, Sumitra Parisar, Nayapura, Kolar Road, Bhopal (M.P)"}
                                                   ],
       "downloadBtnText"                         : "Download Resume",
       "downloadPdfLink"                         : "/resume/vishalsingh_resume.pdf",
@@ -289,9 +289,6 @@ app.controller('myIndexCtrl', function($scope) {
                                                                                 {"toolTip" : "Job Card Listing Screen",      "imgLink": "img/projectsImg/eicher/eicher5.png"},
                                                                             ]
                                                     },
-
-
-
                                                     /*ABSolution*/
                                                     {
                                                         "sno": 7, "projectType": "mobileApp", "classs": 'app', "projectName": "# ABSolution", "thumbnail": "img/projectsImg/ABSolution/ABSolution1.png", "linkUrl": "", "intro": "This is an ERP product for account management, staff management, product management, sales management, e-Store, orders, and CRM section & some on-demand features.", 
