@@ -255,7 +255,7 @@ app.controller('myIndexCtrl', function($scope) {
                                                     },
                                                     /*healtzilla*/
                                                     {
-                                                        "sno": 5, "projectType": "mobileApp", "classs": 'app', "projectName": "# HealthZilla", "thumbnail": "img/projectsImg/healthZilla/healthZilla1.png", "linkUrl": "", "intro": "Healthzilla is a wellness focused technology company, developing solutions for consumers and businesses. The core technology is the ability to gather and analyse stress and habit data at scale. The company is developing a SaaS dashboard solution for industries such as insurance, fitness, and corporate wellness.<br><h5># Role & Contribution</h5>Role & Contribution: Integrated Google Fit to collect and synchronize users’ health and fitness data, presenting key activity metrics and tracking insights on the application dashboard. Also integrated the Oura Ring fitness device with Healthzilla, enabling seamless synchronization of wearable health data and providing users with a centralized view of their fitness and wellness metrics.", 
+                                                        "sno": 5, "projectType": "mobileApp", "classs": 'app', "projectName": "# HealthZilla", "thumbnail": "img/projectsImg/healthZilla/healthZilla1.PNG", "linkUrl": "", "intro": "Healthzilla is a wellness focused technology company, developing solutions for consumers and businesses. The core technology is the ability to gather and analyse stress and habit data at scale. The company is developing a SaaS dashboard solution for industries such as insurance, fitness, and corporate wellness.<br><h5># Role & Contribution</h5>Role & Contribution: Integrated Google Fit to collect and synchronize users’ health and fitness data, presenting key activity metrics and tracking insights on the application dashboard. Also integrated the Oura Ring fitness device with Healthzilla, enabling seamless synchronization of wearable health data and providing users with a centralized view of their fitness and wellness metrics.", 
                                                         "chipRepetTech":    [
                                                                                 {"title": "Android App",  "imgLink": "img/skillsLogo/android.png"},
                                                                                 {"title": "IOS App",      "imgLink": "img/skillsLogo/apple.png"},
@@ -264,11 +264,11 @@ app.controller('myIndexCtrl', function($scope) {
                                                                                 {"title": "GoogleAPI",    "imgLink": "img/skillsLogo/google.png"},
                                                                             ],
                                                         "screenShot":       [
-                                                                                {"toolTip" : "Splash Screen",              "imgLink": "img/projectsImg/healthZilla/healthZilla1.png"},
-                                                                                {"toolTip" : "Sign Up Screen",             "imgLink": "img/projectsImg/healthZilla/healthZilla2.png"},
-                                                                                {"toolTip" : "User Dashboard Screen",      "imgLink": "img/projectsImg/healthZilla/healthZilla3.png"},
-                                                                                {"toolTip" : "User Profile Screen",        "imgLink": "img/projectsImg/healthZilla/healthZilla4.png"},
-                                                                                {"toolTip" : "Settings Screen",             "imgLink": "img/projectsImg/healthZilla/healthZilla5.png"},
+                                                                                {"toolTip" : "Splash Screen",              "imgLink": "img/projectsImg/healthZilla/healthZilla1.PNG"},
+                                                                                {"toolTip" : "Sign Up Screen",             "imgLink": "img/projectsImg/healthZilla/healthZilla2.PNG"},
+                                                                                {"toolTip" : "User Dashboard Screen",      "imgLink": "img/projectsImg/healthZilla/healthZilla3.PNG"},
+                                                                                {"toolTip" : "User Profile Screen",        "imgLink": "img/projectsImg/healthZilla/healthZilla4.PNG"},
+                                                                                {"toolTip" : "Settings Screen",             "imgLink": "img/projectsImg/healthZilla/healthZilla5.PNG"},
                                                                             ]
                                                     },
                                                     /*Eicher*/
